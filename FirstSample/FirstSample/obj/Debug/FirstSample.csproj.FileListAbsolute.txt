@@ -1,0 +1,6 @@
+D:\BootStrap\FirstSample\FirstSample\bin\FirstSample.dll.config
+D:\BootStrap\FirstSample\FirstSample\bin\FirstSample.dll
+D:\BootStrap\FirstSample\FirstSample\bin\FirstSample.pdb
+D:\BootStrap\FirstSample\FirstSample\obj\Debug\FirstSample.csprojResolveAssemblyReference.cache
+D:\BootStrap\FirstSample\FirstSample\obj\Debug\FirstSample.dll
+D:\BootStrap\FirstSample\FirstSample\obj\Debug\FirstSample.pdb
