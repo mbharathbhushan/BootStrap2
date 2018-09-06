@@ -4,3 +4,10 @@ D:\BootStrap\FirstSample\FirstSample\bin\FirstSample.pdb
 D:\BootStrap\FirstSample\FirstSample\obj\Debug\FirstSample.csprojResolveAssemblyReference.cache
 D:\BootStrap\FirstSample\FirstSample\obj\Debug\FirstSample.dll
 D:\BootStrap\FirstSample\FirstSample\obj\Debug\FirstSample.pdb
+D:\GitHub - Dec13,2017\BootStrap2\FirstSample\FirstSample\bin\FirstSample.dll.config
+D:\GitHub - Dec13,2017\BootStrap2\FirstSample\FirstSample\bin\FirstSample.dll
+D:\GitHub - Dec13,2017\BootStrap2\FirstSample\FirstSample\bin\FirstSample.pdb
+D:\GitHub - Dec13,2017\BootStrap2\FirstSample\FirstSample\obj\Debug\FirstSample.csprojResolveAssemblyReference.cache
+D:\GitHub - Dec13,2017\BootStrap2\FirstSample\FirstSample\obj\Debug\FirstSample.csproj.CoreCompileInputs.cache
+D:\GitHub - Dec13,2017\BootStrap2\FirstSample\FirstSample\obj\Debug\FirstSample.dll
+D:\GitHub - Dec13,2017\BootStrap2\FirstSample\FirstSample\obj\Debug\FirstSample.pdb
